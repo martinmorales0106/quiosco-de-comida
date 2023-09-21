@@ -1,6 +1,6 @@
 import React from "react";
 import useSWR from "swr";
-import AdminLayout from "../layout/adminLayout";
+import AdminLayout from "../layout/AdminLayout";
 import axios from "axios";
 import Orden from "../components/Orden";
 
